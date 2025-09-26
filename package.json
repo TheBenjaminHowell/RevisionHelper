@@ -1,0 +1,4 @@
+{
+  "name": "revision-helper",
+  "workspaces": ["client", "server"]
+}
