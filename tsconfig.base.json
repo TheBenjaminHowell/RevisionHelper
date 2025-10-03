@@ -1,5 +1,6 @@
 {
     "compilerOptions": {
+        "isolatedModules": true,
         "verbatimModuleSyntax": true,
         "strict": true,
         "noUnusedLocals": true,

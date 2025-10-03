@@ -1,4 +1,4 @@
-import { example } from "./example.js";
+import { example } from "./example.ts";
 
 test("example test", () => {
         const result = example();
